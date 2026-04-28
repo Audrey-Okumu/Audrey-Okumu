@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Audrey Akello
+# 👋 Hi there, I'm Audrey Okumu
 
 🎓 3rd Year Computer Science Student | Backend Developer | Machine Learning Enthusiast  
 📍 Nairobi, Kenya  
@@ -51,8 +51,7 @@ I am currently growing my skills in backend development, system design, and mach
 
 ## ⚡ Interests
 - Machine Learning 🤖  
-- Backend Engineering ⚙️  
-- Financial technology (FinTech) 💰  
+- Backend Engineering ⚙️   
 - AI-driven systems  
 - Problem-solving with data  
 
@@ -71,7 +70,7 @@ I am currently growing my skills in backend development, system design, and mach
 
 ## 📫 How to reach me
 - Email: akelloaudrey3@gmail.com  
-- GitHub: [Audrey-Okumu](https://github.com/Audrey-Okumu)  
+- Linkedin: [Audrey-Okumu](https://www.linkedin.com/in/audrey-okumu-943221366/)  
 - Location: Nairobi, Kenya   
 
 ---

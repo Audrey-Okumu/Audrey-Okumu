@@ -4,6 +4,11 @@
 📍 Nairobi, Kenya  
 
 ---
+# 🌐 Portfolio
+
+Check out my portfolio: [audreyokumu.lovable.app](https://audreyokumu.lovable.app/)
+
+---
 
 ## 🚀 About Me
 I am a Computer Science student passionate about building scalable backend systems, APIs, and intelligent applications powered by machine learning. I enjoy solving real-world problems using software engineering, especially in areas like finance, data systems, and automation.
